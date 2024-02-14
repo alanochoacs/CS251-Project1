@@ -1,3 +1,3 @@
 # CS251-Project1
 Project 1 - Ciphers
-This is the completed project files for CS251 Spring 2024's Project1.
+This is the completed project files for CS251 Spring 2024's Project1. More information is available in the project guide.
